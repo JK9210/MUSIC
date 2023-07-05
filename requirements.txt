@@ -24,3 +24,4 @@ youtube-search-python
 git+https://github.com/yt-dlp/yt-dlp.git
 flask
 gunicorn
+flask_restful
